@@ -1,8 +1,6 @@
 # WriteUps4All
 CTF  writeups
 
-is going to be a public repo with read/write for all of us as soon as a template and a guideline is ready to use
-
 # Structure
 For each event/site one single main folder named after the event/site. Here on short Readme.md with information like links, event dates etc.
 There should be subfolders for each category, e.g. web, pwn, rev etc.
